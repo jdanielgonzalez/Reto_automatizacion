@@ -6,7 +6,7 @@ Juan Daniel Gonzalez Puerta
 --------------------------
 #### Fecha 15/10/2021
 
-Este repositorio contienen la solución al Reto - Reto - Page Object Model.
+Este repositorio contienen la solución al Reto - Page Object Model.
 
 Proyecto de Java para automatiar pruebas al sitio web: 
 
